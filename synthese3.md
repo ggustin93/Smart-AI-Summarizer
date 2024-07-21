@@ -1,0 +1,15 @@
+- **Eco-conception chez Saint-Gobain**:
+  - **Engagement en développement durable**: Adoption d'une approche d'éco-conception pour leur site web.
+  - **Technologie numérique responsable**: Conception, fabrication et distribution de matériaux et solutions ayant un impact positif sur la vie et la planète.
+  - **Efficacité numérique**: Objectif de minimiser les ressources utilisées par les outils numériques.
+  - **Initiatives spécifiques**:
+    - Mode sombre pour économiser la batterie.
+    - Réduction des éléments structurels des pages web.
+    - Optimisation des polices et des requêtes réseau.
+    - Réduction de l'utilisation de Javascript.
+    - Optimisation de la gestion du CMS.
+    - Pas de vidéos hébergées directement sur les serveurs.
+    - Pas de newsletters envoyées depuis le site web.
+  - **Impact positif**: Amélioration du temps passé sur le site, de la bande passante utilisée, du stockage serveur et de l'accessibilité.
+  - **Mesure des résultats**: Utilisation d'outils comme le Website Carbon Calculator et EcoIndex pour analyser et améliorer l'éco-conception des pages web.
+  - **Progrès et objectifs**: Fierté des progrès réalisés et volonté de continuer à améliorer l'efficacité.
