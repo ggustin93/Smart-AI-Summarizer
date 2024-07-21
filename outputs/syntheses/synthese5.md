@@ -1,0 +1,3 @@
+- **Erreur 406 Not Acceptable** :
+  - **Description** : La ressource demandée ne peut pas être trouvée sur le serveur.
+  - **Détails supplémentaires** : Une erreur 406 Not Acceptable a également été rencontrée lors de l'utilisation d'un ErrorDocument pour gérer la requête.
