@@ -1,0 +1,61 @@
+# Synthèse sur l'Éco-Conception Web
+
+## Services et Expertises
+
+### Services
+- **Conception de sites web éco-conçus pour les PME**
+- **Refonte vers de l'éco-conçu**
+- **Migration de sites vers de l’éco-conçu**
+- **Back-office simple et intuitif**
+- **Hébergement éco-responsable**
+
+### Expertises
+- **Éco-conception web** : Intégration des pratiques écologiques dès la conception et le développement d'un site internet.
+- **No-code** : Utilisation de technologies sans code pour simplifier le développement.
+- **Technologies rétro-futuristes** : Adoption de technologies statiques et open source pour réduire l'empreinte carbone.
+- **Optimisations SEO** : Amélioration du référencement et de la performance des sites.
+
+## FAQ
+
+### Qu'est-ce que l'éco-conception web ?
+L'éco-conception web consiste à intégrer des pratiques écologiques à toutes les étapes du cycle de vie d'un site internet, visant à réduire la consommation d'énergie et l'empreinte carbone.
+
+### Comment savoir si un site est éco-conçu ?
+Utilisez des outils comme [ecoIndex.fr](https://www.ecoindex.fr) et [websitecarbon.com](https://www.websitecarbon.com) pour évaluer l'impact environnemental d'un site.
+
+### Quel est l'impact environnemental d'un site internet ?
+Le numérique produit 3.5% des gaz à effet de serre mondiaux. La consommation d'électricité d'un site se répartit entre le serveur, le flux de données, et le device de l'utilisateur.
+
+### Un site internet éco-conçu et beau, c’est possible ?
+Oui, en utilisant des technologies comme le Headless et la techno statique, on peut créer des sites esthétiques et performants tout en réduisant leur empreinte carbone.
+
+### Le dark mode est-il efficace pour réduire l'empreinte carbone ?
+Le dark mode peut réduire la consommation d'énergie sur les écrans OLED et AMOLED, mais il n'est pas un levier primordial comparé à d'autres pratiques d'éco-conception.
+
+### Comment améliorer son score EcoIndex ?
+Réduisez le nombre d’éléments dans le DOM, le nombre de requêtes HTTP, et le poids des pages.
+
+## Engagements
+
+- **Éco-conception web**
+- **Open Source & Logiciels libres**
+- **Inclusivité dans le digital**
+
+## Technologies Recommandées
+
+- **Technologie statique en Headless** : Ultra-légère et rapide, idéale pour l'éco-conception.
+- **CMS Silex** : Permet d'intégrer facilement les bonnes pratiques de l'éco-conception.
+
+## Avantages de l'Éco-Conception Web
+
+- **Différenciation concurrentielle** : Affichage de certifications et badges éco-responsables.
+- **Amélioration des performances marketing** : Meilleur référencement et taux d'acquisition.
+- **Attraction des talents** : Affichage d'une démarche responsable.
+
+## Contact
+
+Pour plus d'informations ou pour discuter de votre projet, n'hésitez pas à nous contacter.
+
+---
+
+Pour en savoir plus sur l'éco-conception web et voir des exemples de sites éco-conçus réussis, visitez notre [site web](#).

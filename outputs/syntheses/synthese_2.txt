@@ -1,0 +1,35 @@
+# Performance Optimization Features for Faster Webflow Sites
+
+## Overview
+Webflow has introduced several new features to enhance site performance, ensuring faster load times and a smoother user experience. Below are the key updates:
+
+### 1. Lazy Loading for Images
+- **Default Setting**: New images are set to lazy load by default, meaning they load only when they appear on the screen.
+- **Customization**: This setting can be overridden for individual images if needed.
+- **Scope**: Applies to inline images (`<img>` elements), not background images.
+
+### 2. Advanced Font Loading Options
+- **Font-Display Property**: Set to "swap" to prevent flashes of invisible text, ensuring content is displayed immediately using a preloaded system font.
+- **Customization**: Available for custom fonts added to Webflow, not for Google or Adobe fonts.
+
+### 3. Link Preloading
+- **Prefetching**: Downloads linked page assets as soon as the current page is fully loaded.
+- **Prerendering**: Fully renders and downloads all necessary assets for a linked page before it is opened, ideal for main links like call-to-actions.
+- **Customization**: Three preloading options available in the settings panel for links.
+
+## Benefits
+These updates provide greater control over site performance, helping to:
+- Reduce initial load times.
+- Improve user experience by minimizing delays and visual disruptions.
+- Optimize resource usage based on user navigation patterns.
+
+## Additional Resources
+- **Webflow University**: Learn more about web design and development.
+- **Webflow Blog**: Stay updated with the latest trends and tips.
+- **Customer Stories**: Explore how other businesses have benefited from Webflow.
+
+## Get Started
+- **Free Starter Plan**: Try Webflow for free and explore its features.
+- **Templates and Experts**: Find templates and hire experts to help with your project.
+
+For more details, visit the [Webflow Blog](https://webflow.com/blog) and explore the latest performance optimization features.

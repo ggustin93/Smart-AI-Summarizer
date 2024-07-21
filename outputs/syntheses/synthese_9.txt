@@ -1,0 +1,57 @@
+```markdown
+# L'Éco-Conception d'un Site Responsable
+
+## Introduction
+Aimeric Marchau, fondateur et expert en éco-conception de sites web, a partagé son parcours et ses pratiques lors d'une interview. Aimeric a débuté sa carrière en tant que chef de projet avant de se reconvertir en développeur web freelance, spécialisé dans l'éco-conception.
+
+## Genèse de l'Interview
+L'interview a eu lieu lors du "Défi Briques", un événement initié par Valentin Decker et Killian Talin, visant à ancrer de nouvelles habitudes d'écriture sur les réseaux sociaux en 21 jours.
+
+## Qui est Aimeric ?
+Aimeric a une formation managériale et entrepreneuriale de l'IAE de Bordeaux et a suivi une formation intensive de codage au Wagon. Sensibilisé par l'impact environnemental du numérique, il s'est spécialisé dans l'éco-conception de sites web, ciblant les entrepreneurs à impact positif.
+
+## L'Approche d'Éco-Conception
+L'éco-conception vise à réduire la consommation énergétique des sites web. Chaque clic sur un lien entraîne un transfert d'énergie entre l'ordinateur de l'utilisateur et un serveur, contribuant à une consommation énergétique globale significative.
+
+### Avantages de l'Éco-Conception
+- **Optimisation du SEO** : Amélioration de la rapidité de chargement et de l'expérience utilisateur.
+- **Réduction des fonctionnalités superflues** : Amélioration de la performance et diminution de la demande énergétique.
+
+### Outils de Mesure
+- **Website Carbon** : Calcule le grammage de CO2 consommé par page.
+- **EcoIndex** : Fournit un scoring sur 100 et une note de A à G.
+
+## Critères Clés de l'Éco-Conception
+1. **Clarification et Cadrage** : Éviter la multiplication des pages et sensibiliser sur les fonctionnalités essentielles.
+2. **Optimisation des Images** : Utiliser le format "webp" et limiter le poids à 150 ko.
+3. **Réduction des Animations** : Diminuer le code JavaScript.
+4. **Choix d'un Hébergement Vert** : Utiliser des serveurs locaux alimentés par des énergies renouvelables.
+5. **Maillage Interne** : Faciliter la navigation avec la règle des "3 clics".
+6. **Mesure Régulière** : Utiliser des outils pour mesurer l'impact énergétique.
+
+## Hébergeurs Web Verts
+- **o2switch**
+- **PlanetHoster**
+- **Infomaniak**
+- **Ex2**
+
+## Impact de l'Éco-Conception
+Le numérique représente 3 à 4 % des émissions mondiales de GES. L'éco-conception peut réduire cet impact en optimisant la consommation énergétique des sites web.
+
+## Recommandations d'Aimeric
+- Recycler son matériel et acheter reconditionné.
+- Prendre en compte l'effet rebond de l'éco-conception.
+- Imposer une réglementation sur l'impact environnemental des sites web.
+
+## Conclusion
+L'éco-conception permet de réduire l'impact environnemental du numérique. En adoptant des pratiques responsables, il est possible de gérer et réduire cet impact de manière significative.
+
+---
+
+**Sources** :
+- Website Carbon
+- EcoIndex
+- Tinywow
+- Presse Citron
+- Arcep
+```

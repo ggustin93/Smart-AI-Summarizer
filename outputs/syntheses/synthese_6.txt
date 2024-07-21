@@ -1,0 +1,31 @@
+# Optimising Webflow Performance: The Complete Guide
+
+## Introduction
+Optimising the performance of a Webflow site is crucial for enhancing user experience, improving SEO, and reducing environmental impact. This guide provides comprehensive strategies to achieve these goals.
+
+## Key Areas of Focus
+
+### 1. **Performance Optimisation**
+- **Image Compression**: Use advanced techniques to compress images without losing quality.
+- **Code Minification**: Minify HTML, CSS, and JavaScript to reduce file sizes.
+- **Caching**: Implement effective caching strategies to speed up load times.
+
+### 2. **Eco-Conception**
+- **Resource Optimisation**: Streamline resources to lower energy consumption.
+- **Server Request Reduction**: Minimise the number of server requests to enhance efficiency.
+- **Green Technologies**: Adopt sustainable technologies to reduce the carbon footprint.
+
+### 3. **SEO and Accessibility**
+- **SEO Enhancement**: Improve site visibility on search engines through best practices.
+- **Accessibility**: Ensure the site is accessible to all users, including those with disabilities.
+
+### 4. **Analysis and Monitoring**
+- **Real-Time Monitoring**: Use analytical tools to track site performance continuously.
+- **Continuous Improvement**: Regularly update and refine the site based on performance data.
+
+## Conclusion
+By focusing on these key areas, you can create a Webflow site that is not only high-performing but also environmentally friendly. For further assistance and to discuss your project, feel free to reach out.
+
+---
+
+For more detailed guidance, refer to the complete guide on optimising Webflow performance.

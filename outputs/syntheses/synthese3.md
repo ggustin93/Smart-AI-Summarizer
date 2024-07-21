@@ -1,53 +1,41 @@
-### Synthèse concise des informations sur Greenoco et ses services
+```markdown
+# Éco-Conception Web : La Transition Énergétique de Votre Site
 
-#### Expertises
-- **Audit éco-conception**
-- **Accompagnement éco-conception**
-- **Plateforme d’audit**
+## Introduction
+L'éco-conception web vise à réduire l'impact environnemental des sites web tout en maintenant une expérience utilisateur de qualité. Cette démarche implique l'adoption de pratiques durables dès la phase de conception et tout au long du cycle de vie du site.
 
-#### Fonctionnalités
-- Calcul de l'empreinte carbone des sites web
-- Préconisations d'optimisation des sites web
-- Badge éco-score pour les sites web
-- Historique et suivi des émissions carbone
+## Principes de l'Éco-Conception Web
+1. **Optimisation des Ressources** : Réduire le poids des pages web, optimiser les images et utiliser des polices web efficaces.
+2. **Réduction des Requêtes Serveur** : Minimiser les requêtes pour améliorer la performance et réduire la consommation d'énergie.
+3. **Choix d'un Hébergeur Éco-Responsable** : Privilégier des hébergeurs verts comme Ex2, Infomaniak, ou O2Switch.
+4. **Utilisation de Serveurs Virtualisés** : Maximiser l'efficacité énergétique des serveurs en utilisant la virtualisation.
 
-#### Méthodologie
-- Formation à l’éco-conception web et au numérique responsable
-- Programmes de formations en e-learning
-- Contenus pédagogiques, exercices et mises en situation
-- Temps d’échanges avec le formateur
+## Bonnes Pratiques
+- **Design Épuré** : Favoriser un design simple et épuré pour réduire la consommation d'énergie.
+- **Compression des Contenus** : Compresser les fichiers et optimiser les PDF pour réduire l'empreinte énergétique.
+- **Gestion des Caches** : Utiliser tous les niveaux de cache disponibles pour améliorer l'efficacité.
 
-#### Formations
-- **Pour professionnels de l’IT et équipes digitales**
-  - Bases de la pollution numérique et du numérique responsable
-  - Audit de site web avec Greenoco
-  - Optimisations préconisées par l’audit
-  - Édition de rapports d’intervention
+## Avantages de l'Éco-Conception Web
+1. **Réduction de la Consommation d'Énergie** : Utilisation de techniques de codage efficaces et réduction des images.
+2. **Réduction des Déchets** : Consolidation des serveurs pour diminuer les émissions de CO2.
+3. **Amélioration du SEO** : Réduction des temps de chargement et amélioration des performances globales du site.
+4. **Économies Financières** : Réduction des coûts à long terme grâce à des pratiques durables.
 
-- **Pour écoles et formations en développement web et marketing digital**
-  - Formation complète aux enjeux du numérique responsable
-  - Intégration de modules aux formations existantes
-  - Optimisation de sites web et utilisation de Greenoco
-  - Interventions lors de conférences
+## Transition Énergétique
+Pour faciliter la transition vers une éco-conception web :
+1. **Changer d'État d'Esprit** : Adopter une mentalité axée sur la durabilité.
+2. **Former les Équipes** : Sensibiliser et former les équipes aux principes de l'éco-conception.
+3. **Utiliser les Ressources Existantes** : Exploiter les outils et ressources déjà disponibles.
+4. **Implémenter des Changements Progressifs** : Commencer par de petites modifications pour une transition en douceur.
+5. **Labelisation** : Obtenir une certification en éco-conception pour valoriser la démarche.
 
-#### Clients
-- Annonceurs et marques
-- Agences web et communication
-- Consultants et agences SEO/SEA
-- Consultants bilan carbone
-- Écoles et formations
+## Conclusion
+L'éco-conception web est une démarche sur le long terme qui permet de créer des sites web durables, performants et respectueux de l'environnement. En adoptant ces pratiques, vous contribuez à un avenir plus durable tout en restant compétitif dans le monde numérique.
 
-#### Partenaires et Support
-- Divers partenaires soutiennent le projet Greenoco
+---
 
-#### Contact
-- **Adresse**: Greenoco – Cité Numérique – 20 Quai Frissard – 76600 Le Havre / France
-- **Email**: hello@greenoco.io
-
-#### Autres Informations
-- Tarifs
-- FAQ
-- Blog
-- Engagements RSE
-- Kit média et dossier de presse
-- Conditions générales de vente
+Pour plus d'informations, contactez-nous :
+- **Téléphone** : 06 74 28 43 67
+- **Email** : contact@fdvconseil.com
+- **Adresse** : 5 bis avenue du Docteur Boutron, 61130 Bellême
+```

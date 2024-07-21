@@ -1,62 +1,52 @@
-### Formation Éco-conception de site web - Alfie
+# Webflow Overview
 
-#### Informations Générales
-- **Finançable** : Oui, jusqu'à 100% par OPCO, autres financements possibles (FAF, Pôle Emploi, etc.)
-- **Durée** : 10.5 heures (3 demi-journées)
-- **Mode** : Présentiel (partout en France) ou à distance
-- **Coût** : À partir de 1 050€ HT par participant
-- **Niveau** : Débutant à expert
-- **Prochaines dates** :
-  - 30 mai 2024 : 9h – 12h30
-  - 04 juin 2024 : 9h – 12h30
-  - 17 juin 2024 : 9h – 12h30
+## Introduction
+Webflow is a powerful visual website builder that allows users to create custom websites without writing code. It offers a range of features designed to provide creative control, flexibility, and scalability for various types of users, including freelancers, agencies, startups, and enterprise-level organizations.
 
-#### Objectifs Pédagogiques
-- Comprendre la démarche d’écoconception de service numérique
-- Maîtriser les concepts fondamentaux de la sobriété numérique et de l’écoconception
-- Appliquer ces concepts aux services numériques (site web)
-- Maîtriser la méthodologie et les outils pour éco-concevoir un site web
+## Key Features
 
-#### Programme de la Formation
-- **Jour 1** : Empreinte numérique et méthodologie
-  - Présentation de l’empreinte du numérique
-  - Démarche d’éco-conception responsable
-  - Outils et retours d’expérience
-- **Jour 2** : Audit d’un service numérique
-  - Réalisation d’un audit de site web
-  - Application de la méthodologie et utilisation des outils
-- **Jour 3** : Restitution des audits
-  - Atelier d’optimisation des audits
-  - Présentation des prochaines étapes
+### Design and Development
+- **Designer**: Provides creative control and flexibility in a visual-first canvas.
+- **CMS**: Offers a visual, composable content management system.
+- **Ecommerce**: Manage stunning online stores with ease.
+- **Interactions**: Craft immersive experiences without engineering support.
+- **SEO**: Fine-tuned control for search engine optimization.
+- **Localization**: Customize your site for a global audience.
+- **Edit Mode**: Custom-built environment for content teammates.
+- **Hosting**: Reliable, scalable, and secure hosting managed by AWS.
+- **Security**: State-of-the-art web application security practices.
 
-#### Moyens Pédagogiques
-- Documents supports de formation projetés
-- Exposés théoriques
-- Étude de cas concrets
-- Utilisation d’outils professionnels en ligne
-- Animation par une formatrice en activité
+### Collaboration and Growth
+- **Collaboration**: Advanced roles and permissions, page branching, and more to work better together.
+- **Apps**: Extend your site’s functionality with various apps.
+- **Figma to Webflow**: Turn static designs into clean, production-ready code.
+- **Webflow University**: Comprehensive courses to learn web design and development.
 
-#### Public Cible
-- Chef de projet webmarketing, chef de projet digital, chargé de marketing, assistant communication
-- Responsable communication, responsable marketing, responsable e-commerce, traffic manager
-- Gérant d’entreprise, indépendant, créateur de site
-- Débutant ou en reconversion
+## Solutions for Different Users
+- **Freelancers**: Build custom sites for clients faster.
+- **Agencies**: Accelerate growth with powerful tools.
+- **Startups**: Move faster and scale efficiently.
+- **Classrooms**: Free access for students and educators.
+- **Enterprise**: Enterprise-level security, compliance, and scalability.
 
-#### Pré-requis
-- Intérêt pour la sobriété numérique
-- Avoir un site web (ou projet de site web) sur lequel travailler
+## Plans and Pricing
+- **Basic**: Best for launching a simple site.
+- **CMS**: Ideal for blogs or content-driven sites.
+- **Business**: Suitable for high-traffic marketing sites.
+- **Enterprise**: Tailored for large organizations with advanced needs.
 
-#### Contact et Devis
-- **Téléphone** : 06 02 13 11 08
-- **Email** : maxime@alfieformation.fr
-- **Devis** : Disponible sur demande, réponse sous 48h
+## Resources and Support
+- **Templates**: Find website templates for various use cases.
+- **Customer Stories**: Learn how other organizations have succeeded with Webflow.
+- **Marketplace**: Browse community-created resources.
+- **Support**: Access documentation, forums, and direct support.
 
-#### Formateur
-- **Marie-Lorraine Chamla** : Formatrice Marketing digital & Numérique responsable
+## Getting Started
+Webflow offers a free Starter plan to try the platform. Users can purchase a paid Site plan to publish, host, and unlock additional features.
 
-#### Autres Informations
-- Non certifiante, donc non finançable via le CPF
-- Avis et taux de satisfaction disponibles en ligne
-- Possibilité de formation sur mesure
+## Conclusion
+Webflow empowers users to build, ship, and manage websites with ease, offering a robust set of tools and features that cater to a wide range of needs, from individual freelancers to large enterprises.
 
-Pour plus d'informations, demandez un devis ou téléchargez la brochure sur le site d'Alfie.
+---
+
+For more information, visit [Webflow](https://webflow.com).
