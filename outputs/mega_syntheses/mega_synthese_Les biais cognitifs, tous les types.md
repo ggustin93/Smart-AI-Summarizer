@@ -1,4 +1,3 @@
-```markdown
 # Mégasynthèse sur les Biais Cognitifs
 
 ## Introduction
@@ -79,6 +78,3 @@ Les biais cognitifs sont des outils puissants mais potentiellement trompeurs. En
 - [PsycNet](https://psycnet.apa.org/record/2011-12301-007)
 - [The Decision Lab](https://thedecisionlab.com/fr/reference-guide/psychology/biases)
 - [Ludotic](https://ludotic.com/user-research-les-biais-cognitifs-amis-ou-ennemis/)
-```
-
-Cette synthèse offre une vue d'ensemble exhaustive et bien structurée des biais cognitifs, en mettant en lumière leur importance et leurs applications pratiques. Les sources sont référencées pour permettre un approfondissement des connaissances.

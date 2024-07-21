@@ -1,1 +1,0 @@
-Erreur lors de l'appel à l'API Corcel : 400 Client Error: Bad Request for url: https://api.corcel.io/v1/text/cortext/chat

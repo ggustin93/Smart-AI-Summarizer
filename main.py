@@ -121,7 +121,7 @@ def optimize_query_with_corcel(user_query):
                 f"Optimisez cette requête pour une recherche Google experte : {user_query}\\n"
                 "Utilisez les techniques de recherche avancées mentionnées ci-dessus pour améliorer la précision et la pertinence des résultats.\\n"
                 "Fournissez uniquement la requête optimisée, sans explications supplémentaires.\\n"
-                "La requête optimisée doit être concise, précise et directement utilisable dans Google."
+                "TA SEULE et unique réponse à ma demande est la requête optimisée qui doit être concise, précise et directement utilisable dans Google et ne pas comporter trop de filtres."
             )
         }
     ]
@@ -143,7 +143,7 @@ def optimize_query_with_corcel(user_query):
 def summarize_page_with_corcel(text, expertise):
     messages = [{
         "role": "system",
-        "content": f"Vous êtes un assistant spécialisé dans la synthèse d'informations sur {expertise}."
+        "content": f"Vous êtes expert et avez écrit le message suivant pour vous présenter : {expertise}."
     }, {
         "role": "user",
         "content": f"Veuillez faire une synthèse concise, professionnelle, bien formatée en markdown, sur base des informations suivantes : {text}"
